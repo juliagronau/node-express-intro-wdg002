@@ -1,0 +1,20 @@
+{
+  "name": "express-intro-wdg002",
+  "version": "1.0.0",
+  "description": "das ist ein package um express zu lernen",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "julia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
